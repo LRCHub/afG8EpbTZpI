@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "クローン",
+  "base_artist": "Chevon",
+  "createdAt": "2026-02-10T14:19:01.624422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クローン",
+      "artist": "KANA-BOON",
+      "has_synced": false,
+      "path": "select/01_クローン_KANA-BOON.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クローン",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/02_クローン_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クローン",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/03_クローン_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クローン",
+      "artist": "KANA-BOON",
+      "has_synced": true,
+      "path": "select/04_クローン_KANA-BOON.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クローン",
+      "artist": "WEAVER",
+      "has_synced": true,
+      "path": "select/05_クローン_WEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クローン",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_クローン_Chevon.txt"
+    }
+  ]
+}
